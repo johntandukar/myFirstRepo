@@ -8,6 +8,7 @@ public class Practice {
 		System.out.println("This is new pull");
 		System.out.println(add(6,6));
 		System.out.println(sub(12,6);
+				   System.out.println("Hello");
 	}
  public static int add (int a, int b) {
 	 return a+b;
