@@ -6,6 +6,9 @@ public class Practice {
 		// TODO Auto-generated method stub
      System.out.println("This is just a practice for pull");
 		System.out.println("This is new pull");
+		System.out.println(add(6,6));
 	}
-
+ public static int add (int a, int b) {
+	 return a+b;
+ }
 }
