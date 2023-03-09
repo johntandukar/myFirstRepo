@@ -6,7 +6,7 @@ public class Test1 {
 	  int b = 2;
 	  int c = a + b;
 	  System.out.println(c);
-	  System.out.println("This is for check pull Practice");
+	  System.out.println("This is for check 2nd push pull Practice");
   }
   
   }
